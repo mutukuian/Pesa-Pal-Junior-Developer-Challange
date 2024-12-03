@@ -70,3 +70,11 @@ Currently, the system is only capable of operating on the local filesystem. Addi
 GUI Interface:
 
 While the system is command-line-based, a graphical interface could make it more user-friendly, especially for non-technical users.
+
+
+Questions
+1. What do you love most about computing?
+What I love most about computing is its power to solve complex problems and automate tasks that would otherwise be tedious or impossible to achieve manually. Computing allows me to build systems that can think, analyze data, and perform millions of operations in a fraction of a second. The process of translating abstract ideas into tangible solutions through code is immensely satisfying. The ability to take a problem, break it down into smaller components, and develop algorithms and systems that address those components is something that excites me. Additionally, computing is always evolving, offering endless opportunities for learning and innovation. Whether it’s developing software that enhances productivity, creating tools that empower others, or exploring emerging technologies like AI, computing offers a vast landscape for creativity and impact.
+
+2. If you could meet any scientist or engineer who died before A.D. 2000, whom would you choose, and why?
+I would choose to meet Alan Turing, a mathematician and computer scientist whose work laid the foundation for modern computing and artificial intelligence. Turing’s contributions to theoretical computer science, particularly his concept of the "Turing machine" and the development of the Turing test, were groundbreaking and are still relevant today. Turing's ability to think about computation in a purely abstract way, and his insights into machine learning and artificial intelligence, were ahead of his time. I would love to discuss with him his vision for the future of computing, his thoughts on AI, and how he might view the advancements we have made in the field since his time. His work not only influenced computer science but also played a key role in breaking codes during World War II, which helped shorten the war and save countless lives.
